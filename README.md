@@ -13,6 +13,7 @@ At the begining program will receive some data:
 4) Comments:
       - Comments "##start" and "##end" are provided to show the start and end room information;
       - We don't care about any other comments.
+For a full review see https://github.com/Kmykhail/Lem-in/blob/master/lem-in.en.pdf
 
 <img width="142" alt="example" src="https://user-images.githubusercontent.com/31519926/42514779-df2fce1a-8462-11e8-9d5a-40b43229e54d.png">
 
@@ -22,6 +23,5 @@ $> make
 ```
 # Usage
 ```
-$> ./lem-in < [some maps]
-I have some maps in directory 'maps' )
+$> ./lem-in < maps/[some map]
 ```
