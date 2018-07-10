@@ -13,4 +13,4 @@ At the begining program will receive some data:
 4) Comments:
   - Comments "##start" and "##end" are provided to show the start and end room information;
   - We don't care about any other comments.
-https://github.com/Kmykhail/Lem-in/blob/master/img/example.png
+[[https://github.com/Kmykhail/Lem-in/blob/master/img/example.png]]
