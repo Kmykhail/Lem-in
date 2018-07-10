@@ -13,4 +13,4 @@ At the begining program will receive some data:
 4) Comments:
   - Comments "##start" and "##end" are provided to show the start and end room information;
   - We don't care about any other comments.
-<a href="https://imgflip.com/gif/2dqh2a"><img src="https://i.imgflip.com/2dqh2a.gif" title="made at imgflip.com"/></a>
+
