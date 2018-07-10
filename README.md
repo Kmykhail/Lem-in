@@ -26,3 +26,4 @@ $> make
 ```
 $> ./lem-in < maps/[some map]
 ```
+# Solving
