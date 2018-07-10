@@ -1,5 +1,5 @@
 # Lem-in
-Lem-in is a something kind of game about ant farm. Goal of this project is find the shortest path from start room to the end
+Lem-in is a something kind of game about ant farm. Goal of this project is find the shortest path from start room to the end and move your ant colony.
 # How it's work
 At the begining program will receive some data:
 1) Number of ants:
@@ -27,3 +27,4 @@ $> make
 $> ./lem-in < maps/[some map]
 ```
 # Solving
+In this project, I used the mixed algorithms, Dijkstra's and BFS.
