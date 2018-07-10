@@ -7,7 +7,7 @@ At the begining program will receive some data:
 2) The rooms:
       - The rooms defined by: [name room] [coord_x] [coord_y];
       - Name room will never start with the character L or space;
-      - The room's coordinates will always be integers;
+      - The room's coordinates will always be integers and should not be identical;
 3) The links:
       - links are defined by: [name1]-[name2];
 4) Comments:
@@ -16,3 +16,12 @@ At the begining program will receive some data:
 
 <img width="142" alt="example" src="https://user-images.githubusercontent.com/31519926/42514779-df2fce1a-8462-11e8-9d5a-40b43229e54d.png">
 
+# Compiling
+```
+$> make
+```
+# Usage
+```
+$> ./lem-in < [some maps]
+I have some maps in directory 'maps' )
+```
